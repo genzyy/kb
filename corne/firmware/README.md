@@ -1,0 +1,3 @@
+# Build firmware
+
+- setup qmk
