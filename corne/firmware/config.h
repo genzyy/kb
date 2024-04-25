@@ -15,3 +15,5 @@
 
 
 #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
+
+#define SPLIT_WPM_ENABLE
