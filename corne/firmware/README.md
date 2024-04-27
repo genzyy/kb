@@ -19,3 +19,12 @@ Here are some images:
 - Tenting case with holes for screws
 
 <img src="../../assets/corne-tented.png" alt="Corne tented" />
+
+### Tenting
+
+You need these M4 screws:
+
+- 30-40 mm allen head screw
+- 12-18 mm allen head screw
+
+For these, the outer nut diameter should be 7mm, you can stick the rubber bumper directly to the nut, or you can 3d print the screw caps with stl files in `/screw caps`.
